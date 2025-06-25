@@ -3,7 +3,7 @@ const data = [
     word: 'arranged',
     prompt: 'She has already ___ the meeting for Friday.',
     answer: 'arranged',
-    hint: 'Past participle of “arrange”.'
+    hint: 'She organized the meeting before now.'
   },
   {
     word: 'destination',
