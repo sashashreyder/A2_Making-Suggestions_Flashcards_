@@ -3,7 +3,7 @@ const data = [
     word: 'arranged',
     prompt: 'She has already ___ the meeting for Friday.',
     answer: 'arranged',
-    hint: 'She organized the meeting before now.'
+    hint: 'Organized the meeting before now.'
   },
   {
     word: 'destination',
@@ -51,7 +51,7 @@ const data = [
     word: 'cancelled',
     prompt: 'They have just ___ the trip because of the storm.',
     answer: 'cancelled',
-    hint: 'Called off; past participle of “cancel”.'
+    hint: 'Called off.'
   },
   {
     word: 'together',
